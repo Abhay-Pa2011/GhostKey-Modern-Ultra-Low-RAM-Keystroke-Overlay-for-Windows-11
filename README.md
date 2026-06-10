@@ -1,6 +1,10 @@
 # 👻 GhostKey: Modern Windows 11 Keystroke Overlay Engine
 
-A high-performance, ultra-low RAM keyboard visualizer built explicitly for content creators, streamers, and software tutors. GhostKey delivers beautiful, customizable screen-space keystroke overlays without impacting system performance.
+A high-performance, ultra-low RAM keyboard visualizer built explicitly for content creators, streamers, and software tutors. Developed with a focus on seamless performance and clean aesthetics, GhostKey delivers beautiful, customizable screen-space keystroke overlays without impacting system performance.
+
+> **👨‍💻 Key Contributor:** Abhay Pawar
+
+---
 
 ## ✨ Key Features
 * 🚀 **Ultra-Low Memory Footprint:** Handcrafted minimal engine designed to run flawlessly alongside heavy games and recording suites.
@@ -15,6 +19,6 @@ A high-performance, ultra-low RAM keyboard visualizer built explicitly for conte
 * Windows 10 / 11
 * Python 3.8+
 
-# NOTE - This Pythone Script Install`s Its Dependencies Automatically, Don`t Worry. They Are Just Of 2MB
 
-###Author - Abhay Pawar
+
+# NOTE - This Python Script Install It`s Dependencies Automatically, Don`t Worry. They Are Just Of 1.4MB
