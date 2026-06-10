@@ -21,4 +21,4 @@ A high-performance, ultra-low RAM keyboard visualizer built explicitly for conte
 
 
 
-# NOTE - This Python Script Install It`s Dependencies Automatically, Don`t Worry. They Are Just Of 1.4MB
+* NOTE - This Python Script Install Its Dependencies Automatically, Dont Worry. They Are Just Of 1.4MB
