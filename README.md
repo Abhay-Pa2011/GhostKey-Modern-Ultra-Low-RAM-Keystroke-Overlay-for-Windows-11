@@ -15,8 +15,6 @@ A high-performance, ultra-low RAM keyboard visualizer built explicitly for conte
 * Windows 10 / 11
 * Python 3.8+
 
-### Quick Installation
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-   cd YOUR_REPO_NAME
+# NOTE - This Pythone Script Install`s Its Dependencies Automatically, Don`t Worry. They Are Just Of 2MB
+
+###Author - Abhay Pawar
